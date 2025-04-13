@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! I'm Evandro 👋
 
-<!--
-**evandrojro/evandrojro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Fullstack Developer currently working at **Asaas**  
+🎓 Bachelor’s degree in Information Systems  
+💰 Focused on building financial systems with precision and performance  
+⚙️ Working mostly with **Groovy**, **Grails**, **React**, and **.NET**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **Technologies I work with:**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+---
+
+📫 Connect with me:  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-evangelista-junior-9417971a2/)
